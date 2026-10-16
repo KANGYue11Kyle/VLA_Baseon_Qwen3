@@ -1,0 +1,300 @@
+001: dissecting forceps appeared in view
+002: LigaSure disappeared from view
+003: LigaSure moved away from grasping forceps
+004: LigaSure appeared in view; dissecting forceps moved away from grasping forceps
+005: uterus appeared in view; dissecting forceps moved closer to grasping forceps; dissecting forceps moved closer to LigaSure
+006: grasping forceps disappeared from view; LigaSure appeared in view; dissecting forceps disappeared from view
+007: grasping forceps disappeared from view
+008: LigaSure appeared in view
+009: dissecting forceps moved away from LigaSure
+010: dissecting forceps disappeared from view; LigaSure moved closer to uterus
+011: dissecting forceps appeared in view; grasping forceps moved closer to uterus; LigaSure moved closer to uterus; LigaSure moved closer to grasping forceps
+012: dissecting forceps disappeared from view; grasping forceps moved away from uterus; LigaSure moved closer to uterus; LigaSure moved away from grasping forceps
+013: LigaSure appeared in view; grasping forceps moved away from uterus
+014: dissecting forceps moved closer to LigaSure
+015: LigaSure moved away from uterus
+016: uterus disappeared from view; grasping forceps disappeared from view
+017: uterus disappeared from view
+018: LigaSure moved away from uterus
+019: grasping forceps appeared in view
+020: grasping forceps moved away from uterus
+021: LigaSure moved away from uterus
+022: dissecting forceps disappeared from view
+023: no significant motion detected 
+024: no significant motion detected 
+025: uterus appeared in view; electric hook appeared in view
+026: uterus appeared in view
+027: grasping forceps disappeared from view
+028: no significant motion detected 
+029: grasping forceps disappeared from view; dissecting forceps disappeared from view
+030: dissecting forceps moved away from LigaSure
+031: grasping forceps disappeared from view
+032: LigaSure moved away from uterus; LigaSure moved away from grasping forceps
+033: dissecting forceps disappeared from view
+034: LigaSure moved away from uterus
+035: no significant motion detected 
+036: no significant motion detected 
+037: no significant motion detected 
+038: LigaSure moved away from uterus
+039: grasping forceps moved closer to uterus; LigaSure moved closer to grasping forceps
+040: grasping forceps appeared in view
+041: no significant motion detected 
+042: grasping forceps disappeared from view; LigaSure moved closer to uterus
+043: no significant motion detected 
+044: LigaSure moved away from grasping forceps
+045: uterus disappeared from view
+046: grasping forceps moved away from uterus; LigaSure moved closer to uterus
+047: grasping forceps moved away from uterus
+048: grasping forceps disappeared from view; LigaSure moved closer to uterus
+049: no significant motion detected 
+050: grasping forceps moved away from uterus
+051: no significant motion detected 
+052: LigaSure moved away from uterus
+053: no significant motion detected 
+054: LigaSure moved closer to uterus
+055: no significant motion detected 
+056: no significant motion detected 
+057: no significant motion detected 
+058: electric hook moved closer to dissecting forceps
+059: no significant motion detected 
+060: grasping forceps disappeared from view; LigaSure appeared in view
+061: grasping forceps appeared in view; dissecting forceps disappeared from view; LigaSure moved closer to uterus
+062: grasping forceps appeared in view; LigaSure moved closer to uterus
+063: LigaSure disappeared from view
+064: dissecting forceps moved away from uterus
+065: dissecting forceps appeared in view; LigaSure moved closer to uterus; LigaSure moved away from grasping forceps
+066: grasping forceps appeared in view; LigaSure moved away from uterus; dissecting forceps moved closer to uterus; dissecting forceps moved closer to LigaSure
+067: LigaSure moved away from uterus; dissecting forceps moved closer to uterus; LigaSure moved away from grasping forceps; dissecting forceps moved away from LigaSure
+068: uterus disappeared from view
+069: grasping forceps appeared in view; dissecting forceps appeared in view; LigaSure moved closer to uterus
+070: grasping forceps disappeared from view; dissecting forceps disappeared from view; LigaSure moved closer to uterus
+071: LigaSure moved closer to uterus
+072: grasping forceps appeared in view; LigaSure moved closer to uterus
+073: LigaSure moved closer to uterus
+074: grasping forceps moved away from uterus
+075: LigaSure moved closer to grasping forceps
+076: no significant motion detected 
+077: dissecting forceps disappeared from view
+078: grasping forceps moved closer to uterus; electric hook moved away from uterus; electric hook moved closer to grasping forceps
+079: electric hook moved closer to dissecting forceps
+080: LigaSure moved closer to uterus; dissecting forceps moved closer to uterus
+081: dissecting forceps disappeared from view; LigaSure moved closer to uterus
+082: dissecting forceps moved closer to uterus; dissecting forceps moved away from LigaSure
+083: no significant motion detected between frame 5 and 6
+084: uterus disappeared from view; LigaSure moved away from grasping forceps
+085: no significant motion detected between frame 5 and 6
+086: dissecting forceps appeared in view
+087: LigaSure moved closer to grasping forceps
+088: LigaSure moved away from grasping forceps
+089: LigaSure moved closer to grasping forceps; dissecting forceps moved away from LigaSure
+090: grasping forceps disappeared from view; LigaSure disappeared from view
+091: grasping forceps appeared in view; LigaSure disappeared from view; dissecting forceps disappeared from view
+092: uterus disappeared from view
+093: grasping forceps moved closer to uterus; LigaSure moved closer to uterus; LigaSure moved closer to grasping forceps
+094: no significant motion detected between frame 5 and 6
+095: grasping forceps appeared in view; LigaSure moved closer to uterus
+096: no significant motion detected between frame 5 and 6
+097: LigaSure moved closer to grasping forceps
+098: grasping forceps moved away from uterus; LigaSure moved away from grasping forceps
+099: grasping forceps moved closer to uterus; LigaSure moved closer to uterus
+100: dissecting forceps moved away from LigaSure
+101: LigaSure moved closer to grasping forceps; dissecting forceps moved closer to grasping forceps
+102: dissecting forceps moved away from LigaSure
+103: grasping forceps moved away from uterus; LigaSure moved away from uterus; LigaSure moved away from grasping forceps
+104: LigaSure moved closer to uterus
+105: grasping forceps moved closer to uterus; LigaSure moved away from grasping forceps
+106: LigaSure moved closer to uterus
+107: no significant motion detected between frame 5 and 6
+108: grasping forceps disappeared from view
+109: dissecting forceps appeared in view; LigaSure moved away from uterus
+110: uterus appeared in view; dissecting forceps disappeared from view; LigaSure moved closer to grasping forceps
+111: LigaSure moved away from grasping forceps
+112: grasping forceps disappeared from view
+113: no significant motion detected between frame 5 and 6
+114: LigaSure moved away from grasping forceps
+115: no significant motion detected between frame 5 and 6
+116: dissecting forceps moved away from LigaSure
+117: grasping forceps moved closer to uterus; LigaSure moved closer to grasping forceps
+118: uterus appeared in view; LigaSure disappeared from view; dissecting forceps disappeared from view
+119: dissecting forceps disappeared from view; LigaSure moved closer to uterus
+120: dissecting forceps moved away from uterus; dissecting forceps moved closer to LigaSure
+121: LigaSure disappeared from view
+122: grasping forceps disappeared from view
+123: uterus disappeared from view
+124: grasping forceps disappeared from view; LigaSure moved away from uterus
+125: LigaSure appeared in view
+126: grasping forceps disappeared from view
+127: grasping forceps moved closer to uterus; LigaSure moved closer to uterus; LigaSure moved closer to grasping forceps
+128: uterus appeared in view; LigaSure appeared in view
+129: dissecting forceps disappeared from view; electric hook disappeared from view
+130: electric hook moved away from dissecting forceps
+131: dissecting forceps moved closer to uterus; dissecting forceps moved away from LigaSure
+132: uterus disappeared from view
+133: dissecting forceps appeared in view
+134: grasping forceps disappeared from view; dissecting forceps moved away from LigaSure
+135: LigaSure moved closer to uterus
+136: LigaSure moved closer to grasping forceps
+137: no significant motion detected between frame 5 and 6
+138: dissecting forceps disappeared from view
+139: LigaSure moved closer to uterus
+140: LigaSure appeared in view
+141: electric hook moved closer to uterus
+142: no significant motion detected between frame 5 and 6
+143: no significant motion detected between frame 5 and 6
+144: LigaSure moved away from uterus
+145: electric hook moved away from dissecting forceps
+146: dissecting forceps moved closer to uterus; dissecting forceps moved away from LigaSure
+147: dissecting forceps disappeared from view; LigaSure moved away from uterus
+148: LigaSure moved closer to uterus
+149: dissecting forceps disappeared from view
+150: uterus disappeared from view; LigaSure appeared in view
+151: LigaSure moved away from uterus
+152: no significant motion detected between frame 5 and 6
+153: LigaSure moved closer to grasping forceps
+154: LigaSure moved closer to grasping forceps
+155: no significant motion detected between frame 5 and 6
+156: LigaSure moved closer to uterus
+157: no significant motion detected between frame 5 and 6
+158: LigaSure moved away from uterus
+159: no significant motion detected between frame 5 and 6
+160: uterus disappeared from view; dissecting forceps moved closer to LigaSure
+161: uterus appeared in view; dissecting forceps appeared in view; LigaSure moved closer to grasping forceps
+162: no significant motion detected between frame 5 and 6
+163: dissecting forceps appeared in view
+164: LigaSure appeared in view
+165: uterus disappeared from view; LigaSure appeared in view
+166: grasping forceps disappeared from view
+167: electric hook moved away from uterus
+168: LigaSure moved closer to uterus; dissecting forceps moved closer to uterus; dissecting forceps moved closer to LigaSure
+169: dissecting forceps moved closer to LigaSure
+170: LigaSure moved closer to uterus
+171: LigaSure moved away from grasping forceps
+172: grasping forceps disappeared from view; LigaSure moved away from uterus
+173: no significant motion detected between frame 5 and 6
+174: LigaSure moved closer to grasping forceps
+175: uterus appeared in view; LigaSure disappeared from view; dissecting forceps appeared in view
+176: dissecting forceps moved away from LigaSure
+177: grasping forceps moved away from uterus
+178: grasping forceps moved away from uterus; LigaSure moved closer to uterus; LigaSure moved closer to grasping forceps
+179: uterus disappeared from view
+180: dissecting forceps moved away from LigaSure
+181: LigaSure moved closer to grasping forceps
+182: electric hook moved away from grasping forceps
+183: grasping forceps appeared in view
+184: electric hook moved closer to LigaSure
+185: uterus appeared in view
+186: no significant motion detected between frame 5 and 6
+187: grasping forceps moved away from uterus; LigaSure moved closer to uterus; LigaSure moved away from grasping forceps
+188: grasping forceps moved away from uterus; LigaSure moved away from uterus; LigaSure moved away from grasping forceps
+189: LigaSure moved closer to grasping forceps
+190: LigaSure appeared in view; dissecting forceps moved closer to uterus
+191: dissecting forceps moved away from LigaSure
+192: uterus appeared in view
+193: uterus appeared in view
+194: LigaSure moved closer to uterus; dissecting forceps moved away from LigaSure
+195: LigaSure moved closer to uterus
+196: LigaSure moved closer to uterus
+197: uterus disappeared from view
+198: LigaSure moved closer to uterus
+199: uterus disappeared from view
+200: dissecting forceps appeared in view
+201: LigaSure moved away from uterus; dissecting forceps moved away from uterus; dissecting forceps moved away from LigaSure
+202: LigaSure moved away from uterus; dissecting forceps moved closer to LigaSure
+203: LigaSure moved closer to uterus
+204: dissecting forceps moved away from LigaSure
+205: LigaSure disappeared from view; dissecting forceps disappeared from view
+206: electric hook disappeared from view
+207: LigaSure moved away from uterus
+208: LigaSure moved closer to uterus
+209: dissecting forceps disappeared from view
+210: electric hook moved away from dissecting forceps
+211: LigaSure moved closer to grasping forceps; dissecting forceps moved away from grasping forceps; dissecting forceps moved closer to LigaSure
+212: LigaSure disappeared from view
+213: LigaSure disappeared from view
+214: uterus disappeared from view; LigaSure moved away from grasping forceps
+215: grasping forceps disappeared from view; dissecting forceps disappeared from view; LigaSure moved closer to uterus
+216: grasping forceps disappeared from view; LigaSure moved away from uterus
+217: no significant motion detected between frame 5 and 6
+218: LigaSure disappeared from view; grasping forceps moved away from uterus
+219: dissecting forceps disappeared from view; LigaSure moved closer to uterus
+220: LigaSure appeared in view
+221: grasping forceps disappeared from view
+222: LigaSure moved away from uterus
+223: grasping forceps appeared in view
+224: uterus appeared in view; electric hook appeared in view
+225: dissecting forceps moved away from uterus; dissecting forceps moved closer to LigaSure
+226: no significant motion detected between frame 5 and 6
+227: electric hook moved away from LigaSure
+228: uterus disappeared from view; LigaSure moved away from grasping forceps; dissecting forceps moved closer to grasping forceps; dissecting forceps moved closer to LigaSure
+229: uterus appeared in view; grasping forceps disappeared from view; LigaSure disappeared from view
+230: LigaSure disappeared from view
+231: LigaSure disappeared from view
+232: no significant motion detected between frame 5 and 6
+233: LigaSure moved away from grasping forceps; dissecting forceps moved closer to grasping forceps; dissecting forceps moved closer to LigaSure
+234: grasping forceps moved away from uterus; LigaSure moved away from grasping forceps
+235: grasping forceps disappeared from view; LigaSure disappeared from view
+236: no significant motion detected between frame 5 and 6
+237: no significant motion detected between frame 5 and 6
+238: uterus disappeared from view
+239: LigaSure moved closer to grasping forceps
+240: LigaSure moved closer to grasping forceps
+241: no significant motion detected between frame 5 and 6
+242: electric hook disappeared from view
+243: uterus disappeared from view
+244: dissecting forceps moved closer to uterus; dissecting forceps moved away from LigaSure
+245: dissecting forceps disappeared from view
+246: no significant motion detected between frame 5 and 6
+247: uterus disappeared from view
+248: LigaSure moved away from uterus
+249: LigaSure appeared in view
+250: no significant motion detected between frame 5 and 6
+251: uterus disappeared from view; LigaSure disappeared from view
+252: LigaSure disappeared from view
+253: LigaSure disappeared from view
+254: LigaSure appeared in view
+255: no significant motion detected between frame 5 and 6
+256: no significant motion detected between frame 5 and 6
+257: grasping forceps disappeared from view
+258: LigaSure disappeared from view
+259: no significant motion detected between frame 5 and 6
+260: no significant motion detected between frame 5 and 6
+261: no significant motion detected between frame 5 and 6
+262: no significant motion detected between frame 5 and 6
+263: LigaSure moved away from uterus
+264: dissecting forceps disappeared from view
+265: LigaSure moved away from uterus
+266: no significant motion detected between frame 5 and 6
+267: electric hook moved closer to uterus
+268: grasping forceps disappeared from view; LigaSure appeared in view
+269: no significant motion detected between frame 5 and 6
+270: no significant motion detected between frame 5 and 6
+271: dissecting forceps appeared in view
+272: LigaSure moved closer to grasping forceps
+273: uterus appeared in view; dissecting forceps disappeared from view
+274: LigaSure disappeared from view
+275: uterus appeared in view
+276: LigaSure moved away from grasping forceps; dissecting forceps moved away from grasping forceps
+277: dissecting forceps moved closer to LigaSure
+278: LigaSure moved away from uterus; dissecting forceps moved closer to LigaSure
+279: LigaSure moved closer to uterus
+280: dissecting forceps appeared in view; LigaSure moved closer to uterus; LigaSure moved away from grasping forceps
+281: dissecting forceps appeared in view; LigaSure moved away from uterus
+282: dissecting forceps moved away from LigaSure
+283: LigaSure moved closer to uterus; dissecting forceps moved away from LigaSure
+284: dissecting forceps moved closer to LigaSure
+285: dissecting forceps moved away from LigaSure
+286: uterus disappeared from view; dissecting forceps moved away from LigaSure
+287: dissecting forceps disappeared from view
+288: LigaSure appeared in view
+289: dissecting forceps disappeared from view; LigaSure moved closer to uterus
+290: dissecting forceps disappeared from view
+291: no significant motion detected between frame 5 and 6
+292: no significant motion detected between frame 5 and 6
+293: dissecting forceps appeared in view
+294: dissecting forceps disappeared from view; LigaSure moved closer to uterus
+295: uterus disappeared from view
+296: no significant motion detected between frame 5 and 6
+297: electric hook moved away from dissecting forceps
+298: uterus disappeared from view; electric hook moved away from dissecting forceps
+299: LigaSure moved away from uterus
+300: no significant motion detected between frame 5 and 6
