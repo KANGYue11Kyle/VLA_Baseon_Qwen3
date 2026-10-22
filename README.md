@@ -1,90 +1,90 @@
 # VLA_Baseon_Qwen3
-# 基于QWenVLA模型的腹腔镜预测
+# Laparoscopic Prediction Based on the QwenVLA Model
 
-基于 QwenVL 的手术视频理解模型训练与评估项目，支持多帧采样、数据集预处理、逐轮 checkpoint 评估与可视化。
+A training and evaluation project for a surgical video understanding model based on QwenVL, supporting multi-frame sampling, dataset preprocessing, per-round checkpoint evaluation, and visualization.
 
-## 📁 项目结构
+## 📁 Project Structure
 
 ```
 .
-├── checkpoint-1600/                          # 最佳模型权重（对应第 1600 轮训练步）
-├── qwenvl/                                   # 训练运行核心代码与数据集分割逻辑
-├── 12frames_6sample_pre.py                   # 数据集预处理分割（12 张图片 / 6 样本格式）
-├── evaluate_checkpoints.py                   # 逐轮校验各 checkpoint 的模型准确率
-├── model_performance_summary.png             # 模型性能汇总图（预留位置）
-├── surgery_train_12frames_6sample...         # 训练集数据分割与展示文件
-├── surgery_val_12frames_6samples.j...        # 验证集数据分割与展示文件
-└── vis.py                                    # 生成可视化结果列表的脚本
+├── checkpoint-1600/                          # Best model weights (corresponding to the 1600th training step)
+├── qwenvl/                                   # Core training code and dataset splitting logic
+├── 12frames_6sample_pre.py                   # Dataset preprocessing and splitting (12 images / 6 samples format)
+├── evaluate_checkpoints.py                   # Per-round validation of model accuracy for each checkpoint
+├── model_performance_summary.png             # Model performance summary figure (reserved placeholder)
+├── surgery_train_12frames_6sample...         # Training set data split and display file
+├── surgery_val_12frames_6samples.j...        # Validation set data split and display file
+└── vis.py                                    # Script for generating the visualization results list
 ```
 
-## 🔍 模块说明
+## 🔍 Module Description
 
-| 文件 / 目录 | 说明 |
+| File / Directory | Description |
 | --- | --- |
-| `checkpoint-1600/` | 本次训练筛选出的最佳模型权重，对应 1600 轮训练步 |
-| `qwenvl/` | 存放训练运行核心代码与数据集分割逻辑 |
-| `12frames_6sample_pre.py` | 按 12 张图片、6 样本格式完成数据集预处理分割 |
-| `evaluate_checkpoints.py` | 逐轮校验各 checkpoint 的模型准确率 |
-| `model_performance_summary.png` | 预留模型性能汇总图位置 |
-| `surgery_train_12frames_6sample...` | 训练集数据分割与展示文件 |
-| `surgery_val_12frames_6samples.j...` | 验证集数据分割与展示文件 |
-| `vis.py` | 生成可视化结果列表的脚本 |
+| `checkpoint-1600/` | The best model weights selected from this training run, corresponding to the 1600th training step |
+| `qwenvl/` | Stores the core training code and dataset splitting logic |
+| `12frames_6sample_pre.py` | Performs dataset preprocessing and splitting in the 12-image, 6-sample format |
+| `evaluate_checkpoints.py` | Per-round validation of model accuracy for each checkpoint |
+| `model_performance_summary.png` | Reserved placeholder for the model performance summary figure |
+| `surgery_train_12frames_6sample...` | Training set data split and display file |
+| `surgery_val_12frames_6samples.j...` | Validation set data split and display file |
+| `vis.py` | Script for generating the visualization results list |
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-### 环境依赖
+### Environment Dependencies
 
-> TODO：补充 Python 版本、CUDA 版本及依赖安装命令
+> TODO: Add the Python version, CUDA version, and dependency installation commands
 
 ```bash
-# 示例
+# Example
 pip install -r requirements.txt
 ```
 
-### 数据集预处理
+### Dataset Preprocessing
 
-按 12 张图片、6 样本格式对数据集进行分割：
+Split the dataset in the 12-image, 6-sample format:
 
 ```bash
 python 12frames_6sample_pre.py
 ```
 
-### 模型训练
+### Model Training
 
-> TODO：补充训练启动命令与相关参数说明
+> TODO: Add the training launch command and related parameter descriptions
 
 ```bash
-# 示例
+# Example
 bash qwenvl/train.sh
 ```
 
-### 模型评估
+### Model Evaluation
 
-逐轮校验各 checkpoint 的准确率：
+Validate the accuracy of each checkpoint round by round:
 
 ```bash
 python evaluate_checkpoints.py
 ```
 
-### 结果可视化
+### Result Visualization
 
-生成可视化结果列表：
+Generate the visualization results list:
 
 ```bash
 python vis.py
 ```
 
-## 📊 模型性能
+## 📊 Model Performance
 
-> TODO：训练完成后，将性能汇总图放置于 `model_performance_summary.png`
+> TODO: After training is complete, place the performance summary figure at `model_performance_summary.png`
 
-![模型性能汇总](model_performance_summary.png)
+![Model Performance Summary](model_performance_summary.png)
 
-## 🏆 最佳权重
+## 🏆 Best Weights
 
-本次训练筛选出的最佳模型权重为 **`checkpoint-1600`**，对应第 **1600** 轮训练步。
+The best model weights selected from this training run are **`checkpoint-1600`**, corresponding to the **1600**th training step.
 
 
-## 🙏 致谢
+## 🙏 Acknowledgements
 
-Qwen3开源项目
+The Qwen3 open-source project
